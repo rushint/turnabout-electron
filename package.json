@@ -1,0 +1,17 @@
+{
+  "name": "turnabout-electron",
+  "version": "1.0.0",
+  "description": "TurnAbout Game in Electron",
+  "main": "bootstrap.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Theo Rushin Jr",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.7.9"
+  },
+  "dependencies": {
+    "electron-reload": "^1.2.2"
+  }
+}
